@@ -85,3 +85,25 @@
     padding: 50px;
     margin-top: 50px;
 }
+
+
+/* mindset  */
+.mindset{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 50px;
+}
+.content{
+    padding: 50px;
+    background-image: url("../images/gradient3.png"), url("../images/watch.png") ,linear-gradient(rgba(0,0,0,.4),rgba(0,0,0,0.4));
+    background-blend-mode: overlay;
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 80%;
+    border-radius: 10px;
+    color: aliceblue;
+}
+.btn-coll{
+    color: red;
+}
