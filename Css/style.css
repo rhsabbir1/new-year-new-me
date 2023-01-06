@@ -58,3 +58,30 @@
     color: #1f1f1f;
     font-size: 20px;
 }
+
+
+/* Plan Section styles */
+.plan-title{
+    text-align: center;
+    font-size: 30px;
+}
+.plan-item{
+    text-align: center;
+}
+.plan-item img{
+    height: 60px;
+}
+.title{
+    margin: 10px 0;
+    font-weight: bold;
+
+}
+.work-title{
+    color: #353535;
+}
+.plan-items{
+    display: flex;
+    justify-content: space-around;
+    padding: 50px;
+    margin-top: 50px;
+}
