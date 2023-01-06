@@ -9,6 +9,10 @@
     border-radius: 5px;
     border: none;
 }
+.title{
+    margin: 10px 0;
+    font-weight: bold;
+}
 /* header section styles */
 .header-section{
    background-image: url("../images/banner/banner1.png");
@@ -71,11 +75,6 @@
 .plan-item img{
     height: 60px;
 }
-.title{
-    margin: 10px 0;
-    font-weight: bold;
-
-}
 .work-title{
     color: #353535;
 }
@@ -106,4 +105,36 @@
 }
 .btn-coll{
     color: red;
+}
+
+/* Footer Section */
+footer{
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    padding: 80px;
+}
+.footer-discription{
+    width: 50%;
+    font-size: 20px;
+    margin: 15px 0;
+}
+.contact{
+    font-size: 18px;
+    margin: 15px 0;
+}
+.input{
+    padding: 15px 25px;
+    border-radius: 5px;
+    border: none;
+    margin-bottom: 10px;
+}
+.btn-subscribe{
+    color: rgb(249, 37, 37);
+}
+.social-icon{
+    margin-top: 20px;
+}
+.social-icon img{
+    margin-right: 5px;
 }
