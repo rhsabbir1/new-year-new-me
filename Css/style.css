@@ -1,0 +1,36 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.btn{
+    padding: 15px 25px;
+    font-size: 18px;
+    font-weight: bold;
+    border-radius: 5px;
+    border: none;
+}
+/* header section styles */
+.header-section{
+   background-image: url("../images/banner/banner1.png");
+   height: 100vh;
+   text-align: right;
+   padding: 25px;
+}
+.content-section{
+    padding-top: 200px;
+    margin-right: 50px;
+}
+.content-title{
+    font-size: 50px;
+}
+.content-discription{
+    font-size: 25px;
+    margin: 15px 0;
+}
+.contact-btn{
+    background-color: rgb(230, 61, 0);
+    color: aliceblue;
+}
+
+
+/* Failur Section styles  */
