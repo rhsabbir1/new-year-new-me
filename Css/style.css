@@ -65,6 +65,9 @@
 
 
 /* Plan Section styles */
+.plan-section{
+    padding: 50px;
+}
 .plan-title{
     text-align: center;
     font-size: 30px;
@@ -84,7 +87,6 @@
     padding: 50px;
     margin-top: 50px;
 }
-
 
 /* mindset  */
 .mindset{
@@ -137,4 +139,33 @@ footer{
 }
 .social-icon img{
     margin-right: 5px;
+}
+/* team section */
+.team-section{
+    padding: 50px;
+    background-color: rgba(255, 127, 80, 0.058);
+}
+.team-section-title{
+    text-align: center;
+    font-size: 30px;
+}
+.members{
+    display: flex;
+    gap: 20px;
+    justify-content: center;
+    padding: 25px;
+   
+}
+.member{
+    width: 250px;
+    height:350px;
+    box-shadow: 10px 10px 10px gray;
+    border-radius: 10px;
+    text-align: center;
+    background-color: azure;
+}
+.member .person-img{
+    height: 70%;
+    margin-top: 10px;
+    border-radius: 10px;
 }
