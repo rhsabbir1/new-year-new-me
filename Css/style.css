@@ -46,6 +46,12 @@
 .failur-content-section{
     margin-left: 50px;
 }
+.icon{
+    height: 15px;
+    width: 15px;
+    background-color: aliceblue;
+    color: wheat;
+}
 .failur-title{
     font-size: 40px;
     margin-bottom: 10px;
